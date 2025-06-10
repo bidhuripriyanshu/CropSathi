@@ -24,7 +24,8 @@ function App() {
         <Route path="/login" element={<Login />} />
         <Route path="/signup" element={<Signup />} />
         <Route path="/update" element={<Update />} />
-        {/* <Route path="/grow" element={<Grow />} /> */}
+        {/* { <Route path="/grow" element={<Grow />} /> } */}
+        <Route path="/post " element={<Posts />} />
         <Route path="/forum" element={<Posts />} />
         <Route path="/forum/:postId" element={<PostDetails />} />
       </Routes>

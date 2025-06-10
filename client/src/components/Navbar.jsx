@@ -108,6 +108,11 @@ const Navbar = () => {
                 {t('NForum')}
                 </a>
               </li>
+               <li className="nav-item">
+                <a className="nav-link" href="/posts">
+                {t('Posts')}
+                </a>
+              </li>
             </ul>
             {/* <div className="dropdown">
               <select value={selectedLanguage} onChange={handleLanguageChange} className="form-select" style={{ backgroundColor: "#c9d4f8" }}>
