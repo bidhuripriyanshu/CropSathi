@@ -103,7 +103,6 @@ Mobile App: Use the Expo app to scan the QR code generated after running the Exp
 
 ![image](https://github.com/SanjuPSaji/CropMate-MERN-React-Native-Flask-Machine-Learning/assets/115170042/8f6ccc75-c67a-4b00-a0e9-a1e5e089bb32)
 ---------------
-![image](https://github.com/SanjuPSaji/CropMate-MERN-React-Native-Flask-Machine-Learning/assets/115170042/34032b31-29ae-42bf-81c9-1d32d62b04bf)
 -----------------
 ----------------
 <img src="https://github.com/SanjuPSaji/CropMate-MERN-React-Native-Flask-Machine-Learning/assets/115170042/87ad58a3-8221-4626-bfdc-268f19cb4873" width="249" height="490" />
