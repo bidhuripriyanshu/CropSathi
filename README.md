@@ -32,7 +32,7 @@ To run CropMate on your local machine, follow these steps:
 
 1. Clone the Repository
    ```bash
-   git clone https://github.com/your-username/cropmate.git
+   git clone https://github.com/bidhuripriyanshu/FarmStackAI.git
    cd cropmate
    ```
 
