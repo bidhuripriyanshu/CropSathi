@@ -25,8 +25,6 @@
 
 ## Project Structure
 The project is organized into the following folders:
-
-- **App**: Contains the code for the mobile application developed using Expo and React Native.
 - **Server**: Houses the backend server implementation using the MERN stack (MongoDB, Express.js, React.js, Node.js).
 - **Client**: Contains the code for the web application frontend, developed using React.js.
 - **ML**: Includes the machine learning module responsible for crop recommendation, implemented using Python.
@@ -99,16 +97,6 @@ Ensure you have MongoDB installed and running on your system. Update the MongoDB
 
 6. Access the Application
 Web App: Open your web browser and go to http://localhost:3000.
-Mobile App: Use the Expo app to scan the QR code generated after running the Expo server.
-
-![image](https://github.com/SanjuPSaji/CropMate-MERN-React-Native-Flask-Machine-Learning/assets/115170042/8f6ccc75-c67a-4b00-a0e9-a1e5e089bb32)
----------------
------------------
-----------------
-<img src="https://github.com/SanjuPSaji/CropMate-MERN-React-Native-Flask-Machine-Learning/assets/115170042/87ad58a3-8221-4626-bfdc-268f19cb4873" width="249" height="490" />
-<img src="https://github.com/SanjuPSaji/CropMate-MERN-React-Native-Flask-Machine-Learning/assets/115170042/e351277b-714f-41b4-8219-11301491d414" width="250" height="490" />
-<img src="https://github.com/SanjuPSaji/CropMate-MERN-React-Native-Flask-Machine-Learning/assets/115170042/160b6287-e1dd-4d42-9cb8-e13d28021a46" width="250" height="490" />
-<img src="https://github.com/SanjuPSaji/CropMate-MERN-React-Native-Flask-Machine-Learning/assets/115170042/00d619db-cb70-4bba-b846-a8225aa68026" width="249" height="490" />
 
 
 
