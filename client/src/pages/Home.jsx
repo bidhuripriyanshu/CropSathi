@@ -49,6 +49,9 @@ const Home = () => {
     verifyCookie();
   }, [cookies, navigate, removeCookie]);
 
+
+
+  //api for post of data
   useEffect(() => {
     if (id) {
       axios.post(`${url}/Cropfetch`, { id })
